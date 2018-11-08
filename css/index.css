@@ -1,0 +1,45 @@
+h1{text-align:center;}
+/*div{width:100%;top:30px;margin-bottom: 20px}*/
+p{margin:10px;}
+
+.loja_especial{color: red}
+
+.produto_diferenciado{color: green}
+
+a{text-decoration: none;
+    margin: 30px;
+    text-transform:uppercase}
+
+a:link{color: blue;
+    text-transform:uppercase}
+
+a:visited{color:blue;
+text-transform:uppercase}
+
+a:hover{color:green;
+    text-transform:uppercase}
+
+a:active{color:red;}
+
+.btn-primary{
+    background-color: #FA8072;
+}
+
+
+.btn-secondary{
+    background-color: #FFA500;
+}
+
+
+
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+
+body {
+    background: url("..fundo.jpg")
+!importante;
+}
